@@ -14,7 +14,7 @@ using [Pyrogram](https://docs.pyrogram.org)!!
 sudo apt install screen
 screen -S anynameforscreen
 
-git clone https://github.com/mrvishal2k2/TG-RenameBot
+git clone https://github.com/RainaPravin/TG-RenameBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
